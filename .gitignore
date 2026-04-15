@@ -1,0 +1,6 @@
+/*data
+/tests
+.venv/
+*.npy
+*.pyc
+Part 1Test Data - Prediction Image.jpeg
