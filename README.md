@@ -8,8 +8,8 @@ A face segmentation system that detects and segments faces in movie scene screen
 ├── app.py                          # Streamlit web application
 ├── helper.py                       # Prediction helpers, custom losses/metrics, model loading
 ├── process_data.ipynb              # Data preprocessing — Gaussian filter, ellipse masks, tf.data dataset creation
-├── facesegmentation_1000_data.ipynb # Model training notebook (Google Colab)
-├── facesegmentation_1000_data.py   # Python export of the training notebook
+├── facesegmentation_10000_data.ipynb # Model training notebook (Google Colab)
+├── facesegmentation_10000_data.py   # Python export of the training notebook
 ├── requirements.txt                # Python dependencies
 ├── model/
 │   ├── face_segmentation_model_10000.keras  # Final trained model
